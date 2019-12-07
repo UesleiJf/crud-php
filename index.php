@@ -12,7 +12,7 @@
         <div class="container">
           <div class="jumbotron">
             <div class="row">
-                <h2>CRUD em PHP <span class="badge badge-secondary">v 1.0.0 Glaucia</span></h2>
+                <h2>CRUD em PHP <span class="badge badge-secondary">v 1.0.0 Ueslei</span></h2>
             </div>
           </div>
             </br>
